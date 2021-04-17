@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\bin\Debug\net5.0\FactoryPatternImplementation.exe
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\bin\Debug\net5.0\FactoryPatternImplementation.deps.json
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\bin\Debug\net5.0\FactoryPatternImplementation.runtimeconfig.json
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\bin\Debug\net5.0\FactoryPatternImplementation.runtimeconfig.dev.json
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\bin\Debug\net5.0\FactoryPatternImplementation.dll
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\bin\Debug\net5.0\ref\FactoryPatternImplementation.dll
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\bin\Debug\net5.0\FactoryPatternImplementation.pdb
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.AssemblyInfo.cs
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.dll
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\ref\FactoryPatternImplementation.dll
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.pdb
+C:\Users\victo\source\repos\FactoryPatternImplementation\FactoryPatternImplementation\obj\Debug\net5.0\FactoryPatternImplementation.genruntimeconfig.cache
